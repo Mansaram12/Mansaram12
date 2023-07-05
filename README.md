@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mansaram12
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Full Stack Development
+- 🌱 I’m currently learning ...Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mansaramkar847@gmail.com
 
